@@ -1,6 +1,6 @@
 [submodule "lib1"]
 	path = lib1
-	url = file:///home/ryedida/projects/bazel-test/temp-repos/lib1
+	url = https://github.com/yrahul3910/bazel-test-lib1
 [submodule "lib2"]
 	path = lib2
-	url = file:///home/ryedida/projects/bazel-test/temp-repos/lib2
+	url = https://github.com/yrahul3910/bazel-test-lib2
